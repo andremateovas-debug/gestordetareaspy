@@ -36,6 +36,9 @@ cd gestordetareaspy
 Ejecuta el programa:
 python main.py
 
+<img width="1120" height="613" alt="image" src="https://github.com/user-attachments/assets/8029faa4-f303-41fe-8477-9a2f75d56dc1" />
+
+
 
 Al iniciar el programa, podrás elegir entre las siguientes opciones:
 
